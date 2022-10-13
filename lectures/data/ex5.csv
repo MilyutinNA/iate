@@ -1,0 +1,4 @@
+something,a,b,c,d,message
+one,NA,2,3,4,hello
+two,5,1.#IND,,8,world
+three,9,10,11,NULL,foo
