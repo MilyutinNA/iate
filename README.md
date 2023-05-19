@@ -3,7 +3,7 @@
 
 #### [Тест по ООП](https://docs.google.com/forms/d/e/1FAIpQLScMhRcxnbPpSPhdNRRyYAJ5JMmkIhkyG9HdCofaiMVTA1JYEg/viewform?usp=sf_link)
 
-https://docs.google.com/forms/d/1s4GmNNWZT5qSKjJwLo7WLiwWKZPzo_fgLtTHQViqI2M/edit#responses
+https://docs.google.com/forms/d/1s4GmNNWZT5qSKjJwLo7WLiwWKZPzo_fgLtTHQViqI2M
 
 #### [Семестр 1](https://github.com/MilyutinNA/iate/tree/main/Term1)
 * Лабораторные работы [DZ](https://github.com/MilyutinNA/iate/tree/main/Term1/labs)
